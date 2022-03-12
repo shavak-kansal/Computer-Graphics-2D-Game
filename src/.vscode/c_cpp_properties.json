@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/steiner/Downloads/Assignment_1/include",
+                "/home/steiner/Downloads/Assignment_1/libraries/glfw/include/",
+                "/home/steiner/Downloads/Assignment_1/libraries/glm/",
+                "/home/steiner/Downloads/Assignment_1/libraries/glad/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
